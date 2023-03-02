@@ -7,7 +7,7 @@
 }
 body{
     height: 100vh;
-    background-image: url(/img/paisagem.webp);
+    background-image: url(img/paisagem.webp);
     display: flex;
     align-items: center;
     justify-content: center;
